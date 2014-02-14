@@ -1,0 +1,14 @@
+.block{
+    height: 200px;
+    background-color: #b3b3b3;
+}
+.block2{
+    height: 180px;
+    background-color: #e6e6e6;
+}
+.error{
+    color: red;
+}
+.well{
+    /*margin-top: 240px;*/
+}
